@@ -3,7 +3,7 @@
 **Authors:** Clara Tomasini, Ana C. Murillo, Luis Riazuelo
 
 ### Related Publications:
-Tomasini, Clara, Ana C. Murillo and Luis Riazuelo. "BronchoTop: Bronchoscopy Navigation via RGB-Only Topological Localization" IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026. [**PDF**]
+Tomasini, Clara, Ana C. Murillo and Luis Riazuelo. "BronchoTop: Bronchoscopy Navigation via RGB-Only Topological Localization" IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026. [**PDF**](https://arxiv.org/abs/2609.28328)
 
 # 1. License
 This repository is released under AGPLv3 license.
